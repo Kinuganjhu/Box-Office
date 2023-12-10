@@ -20,7 +20,7 @@
 
   <!-- Embed live preview using an iframe -->
   <h2>Live Preview:</h2>
-  <iframe src="https://effulgent-lebkuchen-df2ddd.netlify.app" width="100%" height="600"></iframe>
+  <a href="https://effulgent-lebkuchen-df2ddd.netlify.app"></a>
 
   <h2>Usage:</h2>
   <p>For usage instructions, please refer to the documentation provided in the repository or the app's source code.</p>
