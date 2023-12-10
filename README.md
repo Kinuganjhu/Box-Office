@@ -6,6 +6,7 @@
 
 </head>
 <body>
+  <a href ='https://effulgent-lebkuchen-df2ddd.netlify.app '> <h3>Demo </h3></a>
   <h1>Welcome to the Box Office App</h1>
   <p>This application was developed during my internship at Internshala. It's designed to showcase box office information, providing users with details about movies, their ratings, earnings, and more.</p>
   
