@@ -13,7 +13,7 @@ const ActorsGrid = ({ actors }) => {
           birthday={data.person.birthday}
           deathday={data.person.deathday}
           gender={data.person.gender}
-          image={data.person.image ? data.person.image.medium : NotFoundImgSrc}
+          image={data.person.image ? data.person.image.medium : './favicon.svg'}
         />
       ))}
     </FlexGrid>
